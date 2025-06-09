@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Hospitality Experience Portfolio",
-  description: "A portfolio showcasing professional experiences and projects in the hospitality industry.",
+  description:
+    "A portfolio showcasing professional experiences and projects in the hospitality industry.",
 };
 
 export default function RootLayout({
